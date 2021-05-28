@@ -1,4 +1,4 @@
-# MIT--ELECTRICAL-ENGINEERING-AND-COMPUTER-SCIENCE-COURSES
+# MIT--ELECTRICAL-ENGINEERING-AND-COMPUTER-SCIENCE
 Free resources at osw.mit.edu: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 
 Courses i personally took and found interesting:
